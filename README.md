@@ -1,4 +1,4 @@
-#Youtube downlaoder
+# Youtube downlaoder
 This is a web-interface for youtube-dl.
 It uses PHP, JS and SQL.
 #Installation
